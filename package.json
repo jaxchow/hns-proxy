@@ -1,0 +1,24 @@
+{
+  "name": "hns-proxy",
+  "version": "0.0.1",
+  "description": "hns server proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaxchow/hns-proxy"
+  },
+  "keywords": [
+    "hns",
+    "proxy",
+    "middleware"
+  ],
+  "author": "jaxchow",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/jaxchow/hns-proxy/issues"
+  },
+  "homepage": "https://github.com/jaxchow/hns-proxy"
+}
